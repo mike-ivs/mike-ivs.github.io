@@ -14,14 +14,14 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/travel_blog/";
+            window.location.href = "/travel-blog/index.html";
           },
         },{id: "nav-tech-blog",
           title: "tech blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/tech_blog/index.html";
+            window.location.href = "/tech-blog/index.html";
           },
         },{id: "nav-projects",
           title: "projects",
