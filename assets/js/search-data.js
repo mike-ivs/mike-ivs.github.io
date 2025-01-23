@@ -67,7 +67,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/travel/";
+          window.location.href = "/tech-blog/2015/travel/";
         
       },
     },{id: "post-a-tech-post-with-code",
@@ -78,7 +78,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/tech/";
+          window.location.href = "/tech-blog/2015/tech/";
         
       },
     },{id: "projects-project-1",
