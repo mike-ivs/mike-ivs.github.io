@@ -1,6 +1,6 @@
 ---
 layout: page
-title: blog
+title: projects
 permalink: /projects/
 description: This page is dedicated to showcasing various projects I've worked on over the past decade. I'll slowly be adding to this page as I find time during travel, so keep an eye out for updates!
 nav: true
