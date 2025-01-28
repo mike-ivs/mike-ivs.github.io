@@ -22,9 +22,9 @@ social: false # includes social icons at the bottom of the page
 
 ---
 Here's my simple little website dedicated to a few things:
-1) A travel blog while we make our way back to England (the real reason your reading this!)
-2) a tech blog for those little neat things i've found out about along the way
-3) a quick portfolio of various projects i've worked on over the years
-4) a little tech challenge to keep me going during travelling.
+* A travel blog while we make our way back to England (the real reason your reading this!)
+* a tech blog for those little neat things i've found out about along the way
+* a quick portfolio of various projects i've worked on over the years
+* a little tech challenge to keep me going during travelling.
 
 Happy reading!
