@@ -30,48 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-ma-te-wa-see-you-soon-aotearoa",
+        },{id: "post-mā-te-wā-see-you-soon-aotearoa",
       
-        title: "Ma te wa, see you soon Aotearoa",
+        title: "Mā te wā, see you soon Aotearoa",
       
       description: "Our first blog post about our travels!",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/blog/2025/matewa/";
-        
-      },
-    },{id: "post-a-post-with-image-galleries",
-      
-        title: "a post with image galleries",
-      
-      description: "this is what included image galleries could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/photo-gallery-copy/";
-        
-      },
-    },{id: "post-a-post-with-image-galleries",
-      
-        title: "a post with image galleries",
-      
-      description: "this is what included image galleries could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/photo-gallery/";
-        
-      },
-    },{id: "post-a-post-with-code",
-      
-        title: "a post with code",
-      
-      description: "an example of a blog post with some code",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/code/";
         
       },
     },{
