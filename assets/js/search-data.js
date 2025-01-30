@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{
+        },{id: "post-a-post-with-image-galleries",
+      
+        title: "a post with image galleries",
+      
+      description: "this is what included image galleries could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/photo-gallery/";
+        
+      },
+    },{id: "post-a-post-with-code",
+      
+        title: "a post with code",
+      
+      description: "an example of a blog post with some code",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2015/code/";
+        
+      },
+    },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
