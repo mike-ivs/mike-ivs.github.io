@@ -23,8 +23,8 @@ Our first full day of adventures took us outside of the city – Stop 1 was Olin
     </div>
 </div>
 
-<a class="spotlight" href="assets/img/blog/20250203/1.jpg">
-        <img src="assets/img/blog/20250203/1.jpg"/>
+<a class="spotlight" href="/assets/img/blog/20250203/1.jpg">
+        <img src="/assets/img/blog/20250203/1.jpg"/>
 </a>
 
 
@@ -41,11 +41,11 @@ Feeling like rolling we went for a beautiful walk through the Alowyn Gardens and
 
 <!-- Group 1 -->
 <div class="spotlight-group">
-    <a class="spotlight" href="assets/img/blog/20250203/2.jpg">
-        <img src="assets/img/blog/20250203/2.jpg" />
+    <a class="spotlight" href="/assets/img/blog/20250203/2.jpg">
+        <img src="/assets/img/blog/20250203/2.jpg" />
     </a>
-    <a class="spotlight" href="assets/img/blog/20250203/3.jpg">
-        <img src="assets/img/blog/20250203/3.jpg" />
+    <a class="spotlight" href="/assets/img/blog/20250203/3.jpg">
+        <img src="/assets/img/blog/20250203/3.jpg" />
     </a>
 </div>
 
