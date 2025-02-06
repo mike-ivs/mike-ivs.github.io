@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-mā-te-wā-see-you-soon-aotearoa",
+        },{id: "post-exploring-melbourne",
+      
+        title: "Exploring Melbourne",
+      
+      description: "The first leg of our six months travel",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/melbourne/";
+        
+      },
+    },{id: "post-mā-te-wā-see-you-soon-aotearoa",
       
         title: "Mā te wā, see you soon Aotearoa",
       
