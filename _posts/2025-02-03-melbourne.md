@@ -124,7 +124,7 @@ After all the eating we decide to go for a stroll around the city - the Dr Seuss
     <a class="spotlight" href="/assets/img/blog/20250203/21.jpg">
         <img src="/assets/img/blog/20250203/s/21.jpg" />
     </a>
-<!-- Group 4 -->
+<!-- Group 5 -->
 <div class="spotlight-group">
     <a class="spotlight" href="/assets/img/blog/20250203/22.jpg">
         <img src="/assets/img/blog/20250203/s/22.jpg" />
