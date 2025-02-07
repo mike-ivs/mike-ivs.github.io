@@ -124,6 +124,7 @@ After all the eating we decide to go for a stroll around the city - the Dr Seuss
     <a class="spotlight" href="/assets/img/blog/20250203/21.jpg">
         <img src="/assets/img/blog/20250203/s/21.jpg" />
     </a>
+</div>
 <!-- Group 5 -->
 <div class="spotlight-group">
     <a class="spotlight" href="/assets/img/blog/20250203/22.jpg">
@@ -135,6 +136,7 @@ After all the eating we decide to go for a stroll around the city - the Dr Seuss
     <a class="spotlight" href="/assets/img/blog/20250203/24.jpg">
         <img src="/assets/img/blog/20250203/s/24.jpg" />
     </a>
+</div>
 
 22000 steps later we were ready for the sofa! 
 
