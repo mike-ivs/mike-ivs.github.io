@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-tasmania-part-1",
+        },{id: "post-tasmania-part-2",
+      
+        title: "Tasmania Part 2",
+      
+      description: "Exploring Tasmania with my parents",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/tasmania2/";
+        
+      },
+    },{id: "post-tasmania-part-1",
       
         title: "Tasmania Part 1",
       
