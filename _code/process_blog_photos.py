@@ -110,7 +110,7 @@ with open(post_to_process,"r") as f:
                     # write image code
                     new_data.append('    <a class="spotlight" href="'+path_to_process[1:]+str(p)+'.jpg">\n')
                     new_data.append('        <img src="'+path_to_process[1:]+'s/'+str(p)+'.jpg"/>\n')
-                    new_data.append('    </xxa>\n')
+                    new_data.append('    </a>\n')
                     # increment counter
                     idx += 1
                     # if 3rd image processed, add end div container and change flags
