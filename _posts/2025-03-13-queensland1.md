@@ -14,7 +14,7 @@ images:
 
 We're on the road again now that ex-cyclone Alfred has run it's stretched out course. We're only a day or so behind our rough schedule after a week of blitzing through Brisbane, the Gold coast, and the Sunshine coast (haha.), but missed out on some epic national walks and, of course, the surfing. We're just about in coastal croc territory as we post this so enjoying the last ocean dips while we can. Anyhoo:
 
-## Sunday 9th March
+## Sunday 9th March: Coffs Harbour to Byron Bay
 
 WE ARE ON OUR WAY!! It might still be rainy, and we don't know what the sun is any more, but we are back on the road. After checking all the travel and weather maps our destination is Byron Bay. We had a couple of stops along the way which we had wanted to do but alas floods don't co-operate with swimming holes, so we had to skip a little bit.
 
@@ -60,7 +60,7 @@ Final stop before the campground was Byron Bay lighthouse - the most easterly po
     </a>
 </div>
 
-## Monday 10th
+## Monday 10th: Byron Bay to Brisbane
 
 We said "so long suckers" to our campsite and proceeded to explore Byron Bay and stock up on supplies. Our efforts were thwarted by the local electricity outages as all the ALDI fridges/freezers were empty and defrosting and so the remaining shelves were fairly bare too. Oh well, onto the next stop.
 
@@ -153,7 +153,7 @@ After a number of phone calls around the gold coast campgrounds got us no where 
     </a>
 </div>
 
-## Tuesday 11th
+## Tuesday 11th: Brisbane
 
 The time difference of an hour meant we were awake bright and early today and finally, for the first time in what feels like forever, we saw blue sky and the sun! Maybe not for the entire day, but at least some of it – I’m wearing positive pants today. We spent the day in Brisbane CBD and used Public Transport rather than drive and because of all the flooding, their payment system was down so it was a free transport day - thanks Alfred! 
 
@@ -263,7 +263,7 @@ Having only done 16000 steps we decided to head to Kangaroo point. I'm sure on a
 </div>
 
 
-## Wednesday 12th
+## Wednesday 12th: Brisbane to Gold Coast
 
 We opted for a late checkout at the Brisbane Holiday Village to make the most of the cracking facilities. Chloe and I did some morning lengths in the salt water pool, making the most of the sunshine that had hidden from us for the past week. A breakfast BBQ was on the agenda: sausages, eggs, beans, and Avo, plus a BOGOF on hot drinks courtesy of our stay. Unfortunately, the weather had had enough of our antics and decided to bucket it down during breakfast, but the outdoor kitchens and BBQ are under cover fortunately!
 
@@ -363,7 +363,7 @@ Following our fruit feast, we called in at Snapper rocks for a leg stretch and s
     </a>
 </div>
 
-## Thursday 13th march
+## Thursday 13th march: Gold Coast
 
 We went prime gold coast visitors today and headed to Movie World for some adrenaline coasters! We started at the front for the DC rival’s coaster, turns out it's the biggest Hyper Coaster in the southern hemisphere so the picture showed mostly Mike with white knuckles holding on for dear life. We stayed in the same area and went on the Green Lantern still a thrill, but I think we both enjoyed this a bit more as the head was rattled! Next stop, Mikes favourite the Justice League  ride which was a shooting one. Chloe sucked at it, but Mike got heaps, turns out gaming so much has uses on these rides. We watched a 4D Wizard of Oz show, pretty average but the Aircon was a nice reprieve from the blazing sun.
 
