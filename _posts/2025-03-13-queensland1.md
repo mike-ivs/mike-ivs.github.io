@@ -469,3 +469,6 @@ The afternoon took us to the Wizard of Oz Area, an almost brand-new area which g
 <a class="spotlight" href="/assets/img/blog/20250313/93.jpg">
     <img src="/assets/img/blog/20250313/s/93.jpg"/>
 </a>
+
+
+What a rollercoaster of a few weeks! Tune in soon as we resume normal travelling and explore further north. There may be dangerous animals!
