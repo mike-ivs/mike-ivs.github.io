@@ -2,7 +2,7 @@
 layout: post
 title: Queensland part 1 - The Aftermath
 date: 2025-03-13 14:00:00
-description: 
+description: -- Mike forgot to add a blerb --
 tags: AUS SixMonthTravel Queensland
 categories: travel
 thumbnail: assets/img/blog/20250313/58.jpg
@@ -164,32 +164,32 @@ We started the day with our standard mountain walk - Mt Coot-tha. A small walk a
     <a class="spotlight" href="/assets/img/blog/20250313/26.jpg">
         <img src="/assets/img/blog/20250313/s/26.jpg"/>
     </a>
-    <a class="spotlight" href="/assets/img/blog/20250313/27.jpg">
-        <img src="/assets/img/blog/20250313/s/27.jpg"/>
+    <a class="spotlight" href="/assets/img/blog/20250313/30.jpg">
+        <img src="/assets/img/blog/20250313/s/30.jpg"/>
     </a>
-    <a class="spotlight" href="/assets/img/blog/20250313/28.jpg">
-        <img src="/assets/img/blog/20250313/s/28.jpg"/>
+    <a class="spotlight" href="/assets/img/blog/20250313/33.jpg">
+        <img src="/assets/img/blog/20250313/s/33.jpg"/>
     </a>
 </div>
 <!-- Group 2 -->
 <div class="spotlight-group">
-    <a class="spotlight" href="/assets/img/blog/20250313/29.jpg">
-        <img src="/assets/img/blog/20250313/s/29.jpg"/>
-    </a>
-    <a class="spotlight" href="/assets/img/blog/20250313/30.jpg">
-        <img src="/assets/img/blog/20250313/s/30.jpg"/>
+    <a class="spotlight" href="/assets/img/blog/20250313/28.jpg">
+        <img src="/assets/img/blog/20250313/s/28.jpg"/>
     </a>
     <a class="spotlight" href="/assets/img/blog/20250313/31.jpg">
         <img src="/assets/img/blog/20250313/s/31.jpg"/>
     </a>
-</div>
-<!-- Group 3 -->
-<div class="spotlight-group">
     <a class="spotlight" href="/assets/img/blog/20250313/32.jpg">
         <img src="/assets/img/blog/20250313/s/32.jpg"/>
     </a>
-    <a class="spotlight" href="/assets/img/blog/20250313/33.jpg">
-        <img src="/assets/img/blog/20250313/s/33.jpg"/>
+</div>
+<!-- Group 3 -->
+<div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/blog/20250313/27.jpg">
+        <img src="/assets/img/blog/20250313/s/27.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250313/29.jpg">
+        <img src="/assets/img/blog/20250313/s/29.jpg"/>
     </a>
 </div>
 
@@ -203,14 +203,14 @@ We got back into the centre and headed to Southbank for some food. We went to Fr
     <a class="spotlight" href="/assets/img/blog/20250313/35.jpg">
         <img src="/assets/img/blog/20250313/s/35.jpg"/>
     </a>
-    <a class="spotlight" href="/assets/img/blog/20250313/36.jpg">
-        <img src="/assets/img/blog/20250313/s/36.jpg"/>
+    <a class="spotlight" href="/assets/img/blog/20250313/37.jpg">
+        <img src="/assets/img/blog/20250313/s/37.jpg"/>
     </a>
 </div>
 <!-- Group 2 -->
 <div class="spotlight-group">
-    <a class="spotlight" href="/assets/img/blog/20250313/37.jpg">
-        <img src="/assets/img/blog/20250313/s/37.jpg"/>
+    <a class="spotlight" href="/assets/img/blog/20250313/36.jpg">
+        <img src="/assets/img/blog/20250313/s/36.jpg"/>
     </a>
     <a class="spotlight" href="/assets/img/blog/20250313/38.jpg">
         <img src="/assets/img/blog/20250313/s/38.jpg"/>
@@ -227,8 +227,8 @@ The rain came back again at this point, so we took a quick turn to the Cultural 
     <a class="spotlight" href="/assets/img/blog/20250313/40.jpg">
         <img src="/assets/img/blog/20250313/s/40.jpg"/>
     </a>
-    <a class="spotlight" href="/assets/img/blog/20250313/41.jpg">
-        <img src="/assets/img/blog/20250313/s/41.jpg"/>
+    <a class="spotlight" href="/assets/img/blog/20250313/43.jpg">
+        <img src="/assets/img/blog/20250313/s/43.jpg"/>
     </a>
 </div>
 <!-- Group 2 -->
@@ -236,8 +236,8 @@ The rain came back again at this point, so we took a quick turn to the Cultural 
     <a class="spotlight" href="/assets/img/blog/20250313/42.jpg">
         <img src="/assets/img/blog/20250313/s/42.jpg"/>
     </a>
-    <a class="spotlight" href="/assets/img/blog/20250313/43.jpg">
-        <img src="/assets/img/blog/20250313/s/43.jpg"/>
+    <a class="spotlight" href="/assets/img/blog/20250313/41.jpg">
+        <img src="/assets/img/blog/20250313/s/41.jpg"/>
     </a>
 </div>
 
@@ -272,8 +272,8 @@ We opted for a late checkout at the Brisbane Holiday Village to make the most of
     <a class="spotlight" href="/assets/img/blog/20250313/48.jpg">
         <img src="/assets/img/blog/20250313/s/48.jpg"/>
     </a>
-    <a class="spotlight" href="/assets/img/blog/20250313/ 49.jpg">
-        <img src="/assets/img/blog/20250313/s/ 49.jpg"/>
+    <a class="spotlight" href="/assets/img/blog/20250313/49.jpg">
+        <img src="/assets/img/blog/20250313/s/49.jpg"/>
     </a>
 </div>
 
@@ -349,6 +349,9 @@ Following our fruit feast, we called in at Snapper rocks for a leg stretch and s
     <a class="spotlight" href="/assets/img/blog/20250313/60.jpg">
         <img src="/assets/img/blog/20250313/s/60.jpg"/>
     </a>
+    <a class="spotlight" href="/assets/img/blog/20250313/63.jpg">
+        <img src="/assets/img/blog/20250313/s/63.jpg"/>
+    </a>
 </div>
 <!-- Group 1 -->
 <div class="spotlight-group">
@@ -357,9 +360,6 @@ Following our fruit feast, we called in at Snapper rocks for a leg stretch and s
     </a>
     <a class="spotlight" href="/assets/img/blog/20250313/62.jpg">
         <img src="/assets/img/blog/20250313/s/62.jpg"/>
-    </a>
-    <a class="spotlight" href="/assets/img/blog/20250313/63.jpg">
-        <img src="/assets/img/blog/20250313/s/63.jpg"/>
     </a>
 </div>
 
