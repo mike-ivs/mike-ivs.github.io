@@ -97,8 +97,8 @@ Chloe went for her first run of the travels this morning, so Mike enjoyed a peac
     <a class="spotlight" href="/assets/img/blog/20250317/13.jpg">
         <img src="/assets/img/blog/20250317/s/13.jpg"/>
     </a>
-    <a class="spotlight" href="/assets/img/blog/20250317/12.jpg">
-        <img src="/assets/img/blog/20250317/s/12.jpg"/>
+    <a class="spotlight" href="/assets/img/blog/20250317/14.jpg">
+        <img src="/assets/img/blog/20250317/s/14.jpg"/>
     </a>
     <a class="spotlight" href="/assets/img/blog/20250317/15.jpg">
         <img src="/assets/img/blog/20250317/s/15.jpg"/>
@@ -107,9 +107,182 @@ Chloe went for her first run of the travels this morning, so Mike enjoyed a peac
 
 We saw all the main animals you expect on a Zoo but in true Steve Irwin fashion there were heaps of crocs and native animals too. I even got to stroke a Koala; they are soooo soft (even if a bit stinky!). Mike's highlight at the zoo was the huge crocodile but also being able to test out his new zoom lens properly! My highlight was probably the number of Koalas and also seeing some baby ones too. We paid an extra 2 dollars to get a sneaky peak in the Wildlife Hospital. Although there weren't any operations happening, we saw a number of animals in incubators which were generally roadside rescues. They had a super tiny Joey in one incubator that was really alert and a number of pouches which we can only assume contained smaller joeys or Koalas too. An awesome start. 
 
-<a class="spotlight" href="/assets/img/blog/20250317/16-58.jpg">
-    <img src="/assets/img/blog/20250317/s/16-58.jpg"/>
-</a>
+<!-- Group 1 -->
+<div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/blog/20250317/16.jpg">
+        <img src="/assets/img/blog/20250317/s/16.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/17.jpg">
+        <img src="/assets/img/blog/20250317/s/17.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/18.jpg">
+        <img src="/assets/img/blog/20250317/s/18.jpg"/>
+    </a>
+</div>
+<!-- Group 2 -->
+<div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/blog/20250317/19.jpg">
+        <img src="/assets/img/blog/20250317/s/19.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/20.jpg">
+        <img src="/assets/img/blog/20250317/s/20.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/21.jpg">
+        <img src="/assets/img/blog/20250317/s/21.jpg"/>
+    </a>
+</div>
+<!-- Group 3 -->
+<div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/blog/20250317/22.jpg">
+        <img src="/assets/img/blog/20250317/s/22.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/23.jpg">
+        <img src="/assets/img/blog/20250317/s/23.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/24.jpg">
+        <img src="/assets/img/blog/20250317/s/24.jpg"/>
+    </a>
+</div>
+<!-- Group 4 -->
+<div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/blog/20250317/25.jpg">
+        <img src="/assets/img/blog/20250317/s/25.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/26.jpg">
+        <img src="/assets/img/blog/20250317/s/26.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/27.jpg">
+        <img src="/assets/img/blog/20250317/s/27.jpg"/>
+    </a>
+</div>
+<!-- Group 5 -->
+<div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/blog/20250317/28.jpg">
+        <img src="/assets/img/blog/20250317/s/28.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/29.jpg">
+        <img src="/assets/img/blog/20250317/s/29.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/30.jpg">
+        <img src="/assets/img/blog/20250317/s/30.jpg"/>
+    </a>
+</div>
+<!-- Group 6 -->
+<div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/blog/20250317/31.jpg">
+        <img src="/assets/img/blog/20250317/s/31.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/32.jpg">
+        <img src="/assets/img/blog/20250317/s/32.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/33.jpg">
+        <img src="/assets/img/blog/20250317/s/33.jpg"/>
+    </a>
+</div>
+<!-- Group 7 -->
+<div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/blog/20250317/34.jpg">
+        <img src="/assets/img/blog/20250317/s/34.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/35.jpg">
+        <img src="/assets/img/blog/20250317/s/35.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/36.jpg">
+        <img src="/assets/img/blog/20250317/s/36.jpg"/>
+    </a>
+</div>
+<!-- Group 8 -->
+<div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/blog/20250317/37.jpg">
+        <img src="/assets/img/blog/20250317/s/37.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/38.jpg">
+        <img src="/assets/img/blog/20250317/s/38.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/39.jpg">
+        <img src="/assets/img/blog/20250317/s/39.jpg"/>
+    </a>
+</div>
+<!-- Group 9 -->
+<div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/blog/20250317/40.jpg">
+        <img src="/assets/img/blog/20250317/s/40.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/41.jpg">
+        <img src="/assets/img/blog/20250317/s/41.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/42.jpg">
+        <img src="/assets/img/blog/20250317/s/42.jpg"/>
+    </a>
+</div>
+<!-- Group 10 -->
+<div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/blog/20250317/43.jpg">
+        <img src="/assets/img/blog/20250317/s/43.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/44.jpg">
+        <img src="/assets/img/blog/20250317/s/44.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/45.jpg">
+        <img src="/assets/img/blog/20250317/s/45.jpg"/>
+    </a>
+</div>
+<!-- Group 11 -->
+<div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/blog/20250317/46.jpg">
+        <img src="/assets/img/blog/20250317/s/46.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/47.jpg">
+        <img src="/assets/img/blog/20250317/s/47.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/48.jpg">
+        <img src="/assets/img/blog/20250317/s/48.jpg"/>
+    </a>
+</div>
+<!-- Group 12 -->
+<div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/blog/20250317/49.jpg">
+        <img src="/assets/img/blog/20250317/s/49.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/50.jpg">
+        <img src="/assets/img/blog/20250317/s/50.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/51.jpg">
+        <img src="/assets/img/blog/20250317/s/51.jpg"/>
+    </a>
+</div>
+<!-- Group 13 -->
+<div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/blog/20250317/52.jpg">
+        <img src="/assets/img/blog/20250317/s/52.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/53.jpg">
+        <img src="/assets/img/blog/20250317/s/53.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/54.jpg">
+        <img src="/assets/img/blog/20250317/s/54.jpg"/>
+    </a>
+</div>
+<!-- Group 14 -->
+<div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/blog/20250317/55.jpg">
+        <img src="/assets/img/blog/20250317/s/55.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/56.jpg">
+        <img src="/assets/img/blog/20250317/s/56.jpg"/>
+    </a>
+    <a class="spotlight" href="/assets/img/blog/20250317/57.jpg">
+        <img src="/assets/img/blog/20250317/s/57.jpg"/>
+    </a>
+</div>
+<!-- Group 15 -->
+<div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/blog/20250317/58.jpg">
+        <img src="/assets/img/blog/20250317/s/58.jpg"/>
+    </a>
+</div>
+
+
 
 We were doing a roundabout route today; our next stop was the big Pineapple on the way to Noosa. It was big and definitely didn't disappoint. You even had to take a picture from the other side of the road to get the full pineapple in! Next stop was supposed to be Noosa Heads and the Hells Gate Walk. But turns out, the surf festival was in Noosa today and there was not a single park for about 3 km from the start, so once again a sad Chloe can't do one of the cool walks she found but also can't even get to the beach :(.  It did however look like a horrendous beach because it was so busy. Our trip to Noosa wasn't a full waste because on the side of the river was the 'Big Pelican'. We went for a lovely stroll and ice cream to see and read about it. It was initially built in 1977 as a carnival float and its wings, beak and eyelashes all move! It's a bit past its carnival days but it does sometimes go out.
 
