@@ -309,8 +309,8 @@ An early morning start to make our Whitsundays trip with Thundercat tours. We so
     <a class="spotlight" href="/assets/img/blog/20250322/50.jpg">
         <img src="/assets/img/blog/20250322/s/50.jpg"/>
     </a>
-    <a class="spotlight" href="/assets/img/blog/20250322/ 51.jpg">
-        <img src="/assets/img/blog/20250322/s/ 51.jpg"/>
+    <a class="spotlight" href="/assets/img/blog/20250322/51.jpg">
+        <img src="/assets/img/blog/20250322/s/51.jpg"/>
     </a>
 </div>
 
