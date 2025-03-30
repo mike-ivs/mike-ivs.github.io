@@ -211,7 +211,11 @@ An EARLY start for a cracking day. We headed out on the fantastic cruise to the 
 
 The first dive was at secret bay a secluded beach where we saw heaps of fishes and also a Wobbegong shark which was super cool. We also saw a little puffer fish but he wasn't puffing so just looked mighty cute. When we got out of the water a beautiful snack board was presented to us with heaps of fresh fruit and also a banana bread in the middle. Yummy! 
 
-* MIKE INSERT VID HERE: 1st fish montage
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/watch?v=X-PIVB7RjQQ" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 We can't remember what our next site was, but it was next to some beautiful sand dunes. We climbed to the top for some stunning views. We had a quick snorkel but the visibility wasn't too great due to being high tide so we hopped back on the boat for our lunch - they know how to feed you on the trip that's for sure!
 
@@ -239,9 +243,13 @@ We can't remember what our next site was, but it was next to some beautiful sand
 
 We had one final snorkel site which was the middle island observatory. It used to be and old under water observation room. There was a sunken ship and an old ladder which made for a perfect reef to form. It's also a 'green area' which means people aren't allowed to fish. We took in a couple of pieces of watermelon and had the most incredible time feeding some humongous Grouper fish and also heaps of much smaller fish. We went diving down towards the ladder as well which was cool as you could see the coral so clearly and some was really colourful as well. All in all an awesome day despite the slight sunburn... 
 
-* MIKE INSERT VID HERE: 2nd fish montage
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/watch?v=rt0qFk2UiVc" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-Back onto solid ground and a lovely shower later we headed to Mt Etna National Park to Bat Cleft Walk. A 40-minute walk up to see the Bat Cleft Cave. The walk was 'spiderriffic' that most definitely isn't spider  and terrific but spider and horrific!! What should have been a chilled out was more of an adrenaline rush with some of the biggest spiders we have seen! The views at the top were awesome and the edge leading into the cleft was sweet too but a bit too hard to take a picture of. The cave gets its name due to the 100,000 female bats which dwell there and swarm out at dusk, sadly we were a bit early to see that but the view and the rock formations were still awesome to see. 
+Back onto solid ground and a lovely shower later we headed to Mt Etna Caves National Park to Bat Cleft Walk. A 40-minute walk up to see the Bat Cleft Cave. The walk was 'spiderriffic' that most definitely isn't spider  and terrific but spider and horrific!! What should have been a chilled out was more of an adrenaline rush with some of the biggest spiders we have seen! The views at the top were awesome and the edge leading into the cleft was sweet too but a bit too hard to take a picture of. The cave gets its name due to the 100,000 female bats which dwell there and swarm out at dusk, sadly we were a bit early to see that but the view and the rock formations were still awesome to see. 
 
 <a class="spotlight" href="/assets/img/blog/20250322/40.jpg">
     <img src="/assets/img/blog/20250322/s/40.jpg"/>
@@ -318,7 +326,11 @@ We rode the catamaran out for over a good hour to our first stop: Manta Ray Bay.
 
 Our second stop of the day was Luncheon Bay: again not for lunch but actually to see the pretty reef. We ended up seeing just as many fish, lots of coral, and even a few vivid blue and pink corals to boot. My highlight had to be the variety of fish we saw, which included some pretty large beasties including a really long thin fish over a metre in size!
 
-* MIKE INSERT VID HERE: 1st fish montage
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/watch?v=Xw9L3HuFClc" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 We had a tasty onboard lunch before heading over to Whitehaven beach to see the 3rd most photographed place in Australia. Although not as incredible as the online photos (taken at the right tide and right time) the sand formations of the beach were super cool to see. We spent an hour down on the beach itself which was also a nursery for baby rays and sharks: we even saw a few!
 
@@ -334,7 +346,12 @@ We had a tasty onboard lunch before heading over to Whitehaven beach to see the 
         <img src="/assets/img/blog/20250322/s/54.jpg"/>
     </a>
 </div>
-* MIKE INSERT VID HERE: 2nd fish montage
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/watch?v=53harmwAVEc" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 We spent our final half hour in Tongue Bay and trying to spot a turtle and sure enough once we'd given up hope, Mike cut his toe on an underwater rock, and the tour boat began boarding we caught a glimpse. A green sea turtle surfaced for a breath three times before swimming away, and we're pretty sure we're the only ones who noticed it! Magic!
 
