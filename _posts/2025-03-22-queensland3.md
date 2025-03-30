@@ -213,7 +213,7 @@ The first dive was at secret bay a secluded beach where we saw heaps of fishes a
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=X-PIVB7RjQQ" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/X-PIVB7RjQQ?si=MLlZ5O9c53_ykcLX" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
