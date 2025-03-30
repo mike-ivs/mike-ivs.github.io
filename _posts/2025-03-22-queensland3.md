@@ -12,9 +12,7 @@ images:
   slider: true
 ---
 
-Queensland is a big state and we've found lots to do while travelling through. Sifting through snorkel trip footage takes a bit of time, so the videos may not be uploaded when you read this. Make sure to check back and see the critters we saw!
-
-Video status: not uploaded
+Queensland is a big state and we've found lots to do while travelling through. Sifting through snorkel trip footage took a bit of time, but the videos should be uploaded now so make sure to check out the critters we saw!
 
 ## Tuesday 18th March: Miriam Vale to Cooee Bay
 
@@ -245,7 +243,7 @@ We had one final snorkel site which was the middle island observatory. It used t
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=rt0qFk2UiVc" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/rt0qFk2UiVc?si=3zjXUuvU93TxENnk" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -328,7 +326,7 @@ Our second stop of the day was Luncheon Bay: again not for lunch but actually to
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=Xw9L3HuFClc" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/Xw9L3HuFClc?si=l8FktTk4tlflRejp" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -349,7 +347,7 @@ We had a tasty onboard lunch before heading over to Whitehaven beach to see the 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=53harmwAVEc" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/53harmwAVEc?si=zR_mFvGwDHbG7OLN" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
