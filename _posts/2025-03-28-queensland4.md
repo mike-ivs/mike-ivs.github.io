@@ -5,7 +5,7 @@ date: 2025-03-28 14:00:00
 description: Uh oh, here comes the rain again to disrupt our travel plans
 tags: AUS SixMonthTravel Queensland
 categories: travel
-thumbnail: assets/img/blog/20250328/1.jpg
+thumbnail: assets/img/blog/20250328/51h.jpg
 images:
   spotlight: true
   compare: true
