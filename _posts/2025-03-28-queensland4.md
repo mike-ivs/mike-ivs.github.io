@@ -293,15 +293,27 @@ Three snorkels in just over a week - sure thing! This time a day on the Northern
 
 We were based on the Opal reef but visited 3 different sites. The first site was Rayban reef (named after the sunglasses a skipper once lost there). This site had a coral nursery which Wavelength had introduced, and heaps of fish and lovely coral, but the best bit by far was seeing and swimming with 2 green turtles! A real dream come true moment and to be honest at that point I would have accepted if it had been the end!
 
-* MIKE ADD YT VIDEO1
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/R0JaIJtfWB0?si=O2NcazsHz5BZEHa9" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Back on the boat with some morning tea of banana bread and pain o chocolats we headed to our next dive site - Beautiful Mooring. This time we joined a guided snorkel for half the swim where Kate showed us how cool the giant clams were when you wave your hand over the top, she explained how the parrot fishes chomp away on the coral and actually allow the reef to regrow, and she also spoke about how the sea cucumber defence is to vomit up all their sticky internal organs... Including their lungs! Just as the ship’s horn blew to tell us to get back on the ship we also saw a white tipped shark. It was probably about 1m in length and swimming super-fast, thankfully in the opposite direction!!
 
-* MIKE ADD YT VIDEO2
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/2YUf001tj30?si=sAWR4DUQOCbgsW4q" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Time for lunch while we made our way to SNO: the Southern Northern Opal site. This one really highlighted the bleaching in the coral, which was a bit sad, but you could also see how much work Wavelength were doing to regenerate the coral. Over lunch we had a talk from the onboard marine biologist who explained about a novel method of coral re-growth they have developed and have the patent for. It's nothing spectacular to look at but the low-grade steel clip allows the baby coral to embed it's self on the rock while the clip rusts over 4 years to leave no trace. Really cool to see some in action. The SNO had even more fish, this time some super colourful ones, and  we also saw a Moray Eel peeking through the rocks. You had to dive to it but it was so cool to see it peek its head and open its mouth. 
 
-* MIKE ADD YT VIDEO3
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/xlUcRkFz_6A?si=qMeB5EVo_kyAdRZS" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Sadly, it was now the end of our time on the GBR, but some chocolate chip cookies and a mug of tea went down a treat as we headed back to Port Douglas. A magical day on the GBR and possibly my favourite day yet! (The images below were taken by the Wavelength peeps on our dive day!)
 
