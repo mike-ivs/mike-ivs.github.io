@@ -1,11 +1,11 @@
 import os
-import sys
+import sys, time
 import glob
 import math
 from PIL import Image
 
-path_to_process = "./assets/img/blog/20250224/"
-post_to_process = "./_posts/2025-02-24-act.md"
+path_to_process = "./assets/img/blog/20250521/"
+post_to_process = "./_posts/2025-05-21-hongkong.md"
 
 
 ### 1) convert iphone jfif to jpg
@@ -36,6 +36,7 @@ for image in images:
     if fname != new_fname:
         img.save(path_to_process + new_fname)
 
+time.sleep(2)
 
 ### 3)  now create thumbnails for all jpgs
 #
