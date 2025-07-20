@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: A Research Software Engineer and former astrophysicist on his travels.
+subtitle: A Research Software Engineer and former astrophysicist.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Currently travelling Australia, Japan, Canada and more.</p>
+    <p>Back in the UK.</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -22,9 +22,11 @@ social: false # includes social icons at the bottom of the page
 
 ---
 Here's my simple little website dedicated to a few things:
-* A travel blog while we make our way back to England (the real reason you're reading this!)
-* a tech blog for those little neat things I've found out about along the way
+* a little tech challenge for myself
 * a quick portfolio of various projects I've worked on over the years
-* a little tech challenge to keep me going during travelling.
+* a tech blog for those little neat things I've found out about along the way
+* A travel blog of cool places we've visited
 
-Happy reading!
+## We're back in the UK now!
+
+We've had a blast as we travelled Australia, Japan, and Canada, and now it's time for us to continue our next adventure settling back into the UK. Make sure to check out our travel blog posts to see what we got up to... Happy reading!
