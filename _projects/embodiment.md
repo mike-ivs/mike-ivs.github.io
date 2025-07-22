@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Embodiment
-description: To Be Updated...
+description: 
 img: 
-importance: 1
-category: rse
+importance: 4
+category: RSE
 related_publications: true
 ---
 

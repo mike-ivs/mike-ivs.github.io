@@ -3,8 +3,8 @@ layout: page
 title: PTOP
 description: Piecing Together Our Past
 img: 
-importance: 1
-category: rse
+importance: 4
+category: RSE
 related_publications: true
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: MyTardis
-description: To Be Updated...
+description: Instrument Data Service development at the university of Auckland
 img: 
-importance: 1
-category: rse
+importance: 3
+category: RSE
 related_publications: true
 ---
 

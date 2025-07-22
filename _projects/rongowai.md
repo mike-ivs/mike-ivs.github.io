@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Rongowai
-description: To Be Updated...
+description: A world-first NASA remote-sensing mission
 img: 
 importance: 1
-category: rse
+category: RSE
 related_publications: true
 ---
 

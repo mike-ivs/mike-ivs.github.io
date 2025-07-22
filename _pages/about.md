@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: A Research Software Engineer and former astrophysicist.
+subtitle: A Research Software Engineer and doctor of Atomic Astrophysics.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Back in the UK.</p>
+  more_info:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -25,7 +24,7 @@ Here's my simple little website dedicated to a few things:
 * a little tech challenge for myself
 * a quick portfolio of various projects I've worked on over the years
 * a tech blog for those little neat things I've found out about along the way
-* A travel blog of cool places we've visited
+* A travel blog of cool places I've visited
 
 ## We're back in the UK now!
 
