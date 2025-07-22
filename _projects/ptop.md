@@ -4,7 +4,7 @@ title: PTOP
 description: Piecing Together Our Past
 img: 
 importance: 1
-category: work
+category: rse
 related_publications: true
 ---
 

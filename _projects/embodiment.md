@@ -4,7 +4,7 @@ title: Embodiment
 description: To Be Updated...
 img: 
 importance: 1
-category: work
+category: rse
 related_publications: true
 ---
 

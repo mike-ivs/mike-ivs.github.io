@@ -1,10 +1,10 @@
 ---
 layout: page
 title: BRASS
-description: To Be Updated...
-img: 
+description: Belgian Repository of fundamental Atomic data and Stellar Spectra
+img: assets/img/23502758.jpg
 importance: 1
-category: work
+category: phd
 related_publications: true
 ---
 
