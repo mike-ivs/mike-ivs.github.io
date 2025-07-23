@@ -2,7 +2,7 @@
 layout: page
 title: PTOP
 description: Piecing Together Our Past
-img: 
+img: assets/img/projects/ptop/ptop-logo.png
 importance: 4
 category: RSE
 related_publications: true
