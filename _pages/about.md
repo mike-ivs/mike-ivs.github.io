@@ -24,7 +24,7 @@ Here's my simple little website dedicated to a few things:
 * a little tech challenge for myself
 * a quick portfolio of various projects I've worked on over the years
 * a tech blog for those little neat things I've found out about along the way
-* A travel blog of cool places I've visited
+* a travel blog of cool places I've visited
 
 ## We're back in the UK now!
 
