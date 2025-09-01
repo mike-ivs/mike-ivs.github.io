@@ -7,7 +7,6 @@ first_name: Mike
 middle_name:
 last_name: Laverick
 contact_note: > 
-  Drop me an email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A little blog about travel and techy stuff.
 footer_text: >
