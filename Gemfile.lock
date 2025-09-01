@@ -98,8 +98,6 @@ GEM
       multi_xml (>= 0.5.2)
     i18n (1.14.6)
       concurrent-ruby (~> 1.0)
-    jekyll-animate-elements (0.0.4)
-      jekyll (>= 3.6, < 5.0)
     jekyll (4.3.4)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -116,6 +114,8 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-animate-elements (0.0.4)
+      jekyll (>= 3.6, < 5.0)
     jekyll-archives (2.3.0)
       jekyll (>= 3.6, < 5.0)
     jekyll-email-protect (1.1.0)
@@ -262,6 +262,7 @@ DEPENDENCIES
   feedjira
   httparty
   jekyll
+  jekyll-animate-elements
   jekyll-archives
   jekyll-email-protect
   jekyll-feed
