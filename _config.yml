@@ -354,7 +354,10 @@ imagemagick:
     - 800
     - 1400
   input_directories:
-    - assets/img/
+    - assets/img/projects
+    - assets/img/publication_preview
+    - assets/img/*.jpg
+    - assets/img/*.png
   input_formats:
     - ".jpg"
     - ".jpeg"
