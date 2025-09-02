@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
 subtitle: A Research Software Engineer and doctor of Atomic Astrophysics.
 

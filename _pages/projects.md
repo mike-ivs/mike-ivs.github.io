@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: This page is dedicated to showcasing various projects I've worked on over the past decade.
 nav: true
