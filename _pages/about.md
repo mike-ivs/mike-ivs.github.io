@@ -28,4 +28,8 @@ Here's my simple little website dedicated to a few things:
 
 ## We're back in the UK now!
 
+<div class="l-page">
+  <iframe src="{{ '/assets/html/index.html' | relative_url }}" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
+</div>
+
 We've had a blast as we travelled Australia, Japan, and Canada, and now it's time for us to continue our next adventure settling back into the UK. Make sure to check out our travel blog posts to see what we got up to... Happy reading!
