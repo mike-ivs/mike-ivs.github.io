@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: A Research Software Engineer and doctor of Atomic Astrophysics.
+subtitle: A Research Platforms &Software Engineer, Doctor of Atomic Astrophysics, with a focus on High Throughput Computing.
 
 profile:
   align: right
@@ -20,16 +20,12 @@ social: true # includes social icons at the bottom of the page
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 ---
-Here's my simple little website dedicated to a few things:
-* a little tech challenge for myself
-* a quick portfolio of various projects I've worked on over the years
-* a tech blog for those little neat things I've found out about along the way
-* a travel blog of cool places I've visited
+Kia ora! This is my simple little website, created during 6 months of world travel in 2025, which aims to showcase some of the cool projects I've worked on and interesting places I've visited.
 
-## We're back in the UK now!
+### Interactive travel map for 2025
+
+We had a blast as we travelled Australia, Japan, and Canada, and finally I made an interactive map to help explore our journey and their corresponding blog posts.
 
 <div class="l-page">
   <iframe src="{{ '/assets/html/index.html' | relative_url }}" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
 </div>
-
-We've had a blast as we travelled Australia, Japan, and Canada, and now it's time for us to continue our next adventure settling back into the UK. Make sure to check out our travel blog posts to see what we got up to... Happy reading!
